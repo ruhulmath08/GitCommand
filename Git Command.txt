@@ -1,0 +1,9 @@
+1. For clone any project from git
+git clone directory_name;
+
+2. Upload file to git
+	
+	git init
+	git statas
+	git add .
+	git commit -m "our_commit"
